@@ -1,0 +1,14 @@
+/* Component Styles
+--------------------*/
+.post-wrapper {
+	padding: 45px;
+	width: 100%;
+	background-color: coral;
+	.post-item {
+		margin-bottom: 20px;
+		padding: 20px;
+		color: #fff;
+		background-color: darkcyan;
+		text-transform: uppercase;
+	}
+}
