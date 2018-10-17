@@ -1,1 +1,4 @@
-# slimpig
+# Slimpig UI
+
+- Gatsby
+- React
