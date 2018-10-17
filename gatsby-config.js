@@ -17,5 +17,14 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    'gatsby-plugin-sass',
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/posts`,
+        name: `posts`
+      }
+    },
+    'gatsby-transformer-remark'
   ],
 }
