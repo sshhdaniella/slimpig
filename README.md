@@ -1,4 +1,0 @@
-# Slimpig UI
-
-- Gatsby
-- React
